@@ -34,21 +34,21 @@ AZ-900は、クラウドの概念、Azureのサービス、Azure のワークロ
 
 ### Terraform デモ
 
-| シナリオ | 説明 | ディレクトリ |
-|---------|------|--------------|
-| 基本的なリソースグループとストレージ | リソースグループとストレージアカウントの作成 | [terraform/basic-resources/](./terraform/basic-resources/) |
-| 仮想ネットワークの構築 | VNetとサブネットの基本構成 | [terraform/virtual-network/](./terraform/virtual-network/) |
-| 仮想マシンのデプロイ | 基本的なLinux/Windows VMの作成 | [terraform/virtual-machine/](./terraform/virtual-machine/) |
+| シナリオ | 説明 | ディレクトリ | ステータス |
+|---------|------|--------------|-----------|
+| 基本的なリソースグループとストレージ | リソースグループとストレージアカウントの作成 | [terraform/basic-resources/](./terraform/basic-resources/) | ✅ 実装済み |
+| 仮想ネットワークの構築 | VNetとサブネットの基本構成 | [terraform/virtual-network/](./terraform/virtual-network/) | 🚧 予定 |
+| 仮想マシンのデプロイ | 基本的なLinux/Windows VMの作成 | [terraform/virtual-machine/](./terraform/virtual-machine/) | 🚧 予定 |
 
 ### 手動デモ
 
-| シナリオ | 説明 | ファイル |
-|---------|------|----------|
-| Azureポータルツアー | Azureポータルの基本操作と画面構成 | [manual-demos/01-portal-tour.md](./manual-demos/01-portal-tour.md) |
-| リソースグループの管理 | リソースグループの作成、タグ付け、削除 | [manual-demos/02-resource-groups.md](./manual-demos/02-resource-groups.md) |
-| ストレージアカウントの操作 | ストレージアカウントとBlobの基本操作 | [manual-demos/03-storage-account.md](./manual-demos/03-storage-account.md) |
-| 仮想マシンの作成 | ポータルからVMを作成して接続 | [manual-demos/04-virtual-machine.md](./manual-demos/04-virtual-machine.md) |
-| コスト管理 | Azure Cost Management の使用方法 | [manual-demos/05-cost-management.md](./manual-demos/05-cost-management.md) |
+| シナリオ | 説明 | ファイル | ステータス |
+|---------|------|----------|-----------|
+| Azureポータルツアー | Azureポータルの基本操作と画面構成 | [manual-demos/01-portal-tour.md](./manual-demos/01-portal-tour.md) | ✅ 実装済み |
+| リソースグループの管理 | リソースグループの作成、タグ付け、削除 | [manual-demos/02-resource-groups.md](./manual-demos/02-resource-groups.md) | ✅ 実装済み |
+| ストレージアカウントの操作 | ストレージアカウントとBlobの基本操作 | [manual-demos/03-storage-account.md](./manual-demos/03-storage-account.md) | 🚧 予定 |
+| 仮想マシンの作成 | ポータルからVMを作成して接続 | [manual-demos/04-virtual-machine.md](./manual-demos/04-virtual-machine.md) | 🚧 予定 |
+| コスト管理 | Azure Cost Management の使用方法 | [manual-demos/05-cost-management.md](./manual-demos/05-cost-management.md) | 🚧 予定 |
 
 ## 推奨学習リソース
 

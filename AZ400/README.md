@@ -40,25 +40,25 @@ AZ-400は、DevOpsプラクティスを実装するDevOpsエンジニアを対�
 
 ### Terraform デモ
 
-| シナリオ | 説明 | ディレクトリ |
-|---------|------|--------------|
-| Azure DevOps環境 | Azure DevOps プロジェクトとリポジトリ | [terraform/azure-devops/](./terraform/azure-devops/) |
-| Container Registry | ACRとイメージスキャン設定 | [terraform/container-registry/](./terraform/container-registry/) |
-| AKS + DevOps | AKSクラスタとCI/CD統合 | [terraform/aks-devops/](./terraform/aks-devops/) |
-| モニタリング基盤 | Log AnalyticsとApplication Insights | [terraform/monitoring/](./terraform/monitoring/) |
+| シナリオ | 説明 | ディレクトリ | ステータス |
+|---------|------|--------------|-----------|
+| Azure DevOps環境 | Azure DevOps プロジェクトとリポジトリ | [terraform/azure-devops/](./terraform/azure-devops/) | 🚧 予定 |
+| Container Registry | ACRとイメージスキャン設定 | [terraform/container-registry/](./terraform/container-registry/) | 🚧 予定 |
+| AKS + DevOps | AKSクラスタとCI/CD統合 | [terraform/aks-devops/](./terraform/aks-devops/) | 🚧 予定 |
+| モニタリング基盤 | Log AnalyticsとApplication Insights | [terraform/monitoring/](./terraform/monitoring/) | 🚧 予定 |
 
 ### 手動デモ
 
-| シナリオ | 説明 | ファイル |
-|---------|------|----------|
-| Azure Pipelinesの作成 | CI/CDパイプラインの基本設定 | [manual-demos/01-azure-pipelines.md](./manual-demos/01-azure-pipelines.md) |
-| YAML パイプライン | YAMLベースのパイプライン定義 | [manual-demos/02-yaml-pipeline.md](./manual-demos/02-yaml-pipeline.md) |
-| ブランチ戦略 | Git Flow と GitHub Flow | [manual-demos/03-branch-strategy.md](./manual-demos/03-branch-strategy.md) |
-| プルリクエストポリシー | コードレビュープロセスの設定 | [manual-demos/04-pr-policy.md](./manual-demos/04-pr-policy.md) |
-| Infrastructure as Code | Terraformパイプラインの実装 | [manual-demos/05-iac-pipeline.md](./manual-demos/05-iac-pipeline.md) |
-| コンテナデプロイ | DockerイメージのビルドとAKSデプロイ | [manual-demos/06-container-deploy.md](./manual-demos/06-container-deploy.md) |
-| セキュリティスキャン | パイプラインへのセキュリティツール統合 | [manual-demos/07-security-scan.md](./manual-demos/07-security-scan.md) |
-| モニタリング統合 | パイプラインとアプリのモニタリング | [manual-demos/08-monitoring.md](./manual-demos/08-monitoring.md) |
+| シナリオ | 説明 | ファイル | ステータス |
+|---------|------|----------|-----------|
+| Azure Pipelinesの作成 | CI/CDパイプラインの基本設定 | [manual-demos/01-azure-pipelines.md](./manual-demos/01-azure-pipelines.md) | 🚧 予定 |
+| YAML パイプライン | YAMLベースのパイプライン定義 | [manual-demos/02-yaml-pipeline.md](./manual-demos/02-yaml-pipeline.md) | 🚧 予定 |
+| ブランチ戦略 | Git Flow と GitHub Flow | [manual-demos/03-branch-strategy.md](./manual-demos/03-branch-strategy.md) | 🚧 予定 |
+| プルリクエストポリシー | コードレビュープロセスの設定 | [manual-demos/04-pr-policy.md](./manual-demos/04-pr-policy.md) | 🚧 予定 |
+| Infrastructure as Code | Terraformパイプラインの実装 | [manual-demos/05-iac-pipeline.md](./manual-demos/05-iac-pipeline.md) | 🚧 予定 |
+| コンテナデプロイ | DockerイメージのビルドとAKSデプロイ | [manual-demos/06-container-deploy.md](./manual-demos/06-container-deploy.md) | 🚧 予定 |
+| セキュリティスキャン | パイプラインへのセキュリティツール統合 | [manual-demos/07-security-scan.md](./manual-demos/07-security-scan.md) | 🚧 予定 |
+| モニタリング統合 | パイプラインとアプリのモニタリング | [manual-demos/08-monitoring.md](./manual-demos/08-monitoring.md) | 🚧 予定 |
 
 ## 推奨学習リソース
 

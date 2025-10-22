@@ -38,23 +38,23 @@ AZ-104は、Azure環境の実装、管理、監視を担当するAzure管理者�
 
 ### Terraform デモ
 
-| シナリオ | 説明 | ディレクトリ |
-|---------|------|--------------|
-| VNetピアリング | 複数のVNet間のピアリング設定 | [terraform/vnet-peering/](./terraform/vnet-peering/) |
-| ロードバランサー | Azure Load Balancerの構成 | [terraform/load-balancer/](./terraform/load-balancer/) |
-| VMスケールセット | VM Scale Setsの自動スケーリング | [terraform/vmss/](./terraform/vmss/) |
-| Azure Backup | VMバックアップの構成 | [terraform/backup/](./terraform/backup/) |
+| シナリオ | 説明 | ディレクトリ | ステータス |
+|---------|------|--------------|-----------|
+| VNetピアリング | 複数のVNet間のピアリング設定 | [terraform/vnet-peering/](./terraform/vnet-peering/) | 🚧 予定 |
+| ロードバランサー | Azure Load Balancerの構成 | [terraform/load-balancer/](./terraform/load-balancer/) | 🚧 予定 |
+| VMスケールセット | VM Scale Setsの自動スケーリング | [terraform/vmss/](./terraform/vmss/) | 🚧 予定 |
+| Azure Backup | VMバックアップの構成 | [terraform/backup/](./terraform/backup/) | 🚧 予定 |
 
 ### 手動デモ
 
-| シナリオ | 説明 | ファイル |
-|---------|------|----------|
-| Azure ADユーザー管理 | ユーザーとグループの作成と管理 | [manual-demos/01-azure-ad-users.md](./manual-demos/01-azure-ad-users.md) |
-| RBACの構成 | ロールベースのアクセス制御の設定 | [manual-demos/02-rbac-configuration.md](./manual-demos/02-rbac-configuration.md) |
-| ストレージのレプリケーション | ストレージアカウントのレプリケーション設定 | [manual-demos/03-storage-replication.md](./manual-demos/03-storage-replication.md) |
-| ネットワークセキュリティグループ | NSGの作成と規則の設定 | [manual-demos/04-nsg-configuration.md](./manual-demos/04-nsg-configuration.md) |
-| Azure Monitor | メトリックとアラートの設定 | [manual-demos/05-azure-monitor.md](./manual-demos/05-azure-monitor.md) |
-| Azure Policy | ポリシーの作成と割り当て | [manual-demos/06-azure-policy.md](./manual-demos/06-azure-policy.md) |
+| シナリオ | 説明 | ファイル | ステータス |
+|---------|------|----------|-----------|
+| Azure ADユーザー管理 | ユーザーとグループの作成と管理 | [manual-demos/01-azure-ad-users.md](./manual-demos/01-azure-ad-users.md) | 🚧 予定 |
+| RBACの構成 | ロールベースのアクセス制御の設定 | [manual-demos/02-rbac-configuration.md](./manual-demos/02-rbac-configuration.md) | 🚧 予定 |
+| ストレージのレプリケーション | ストレージアカウントのレプリケーション設定 | [manual-demos/03-storage-replication.md](./manual-demos/03-storage-replication.md) | 🚧 予定 |
+| ネットワークセキュリティグループ | NSGの作成と規則の設定 | [manual-demos/04-nsg-configuration.md](./manual-demos/04-nsg-configuration.md) | 🚧 予定 |
+| Azure Monitor | メトリックとアラートの設定 | [manual-demos/05-azure-monitor.md](./manual-demos/05-azure-monitor.md) | 🚧 予定 |
+| Azure Policy | ポリシーの作成と割り当て | [manual-demos/06-azure-policy.md](./manual-demos/06-azure-policy.md) | 🚧 予定 |
 
 ## 推奨学習リソース
 

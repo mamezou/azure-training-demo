@@ -32,23 +32,23 @@ AZ-305は、Azureソリューションアーキテクトを対象とした試験
 
 ### Terraform デモ
 
-| シナリオ | 説明 | ディレクトリ |
-|---------|------|--------------|
-| ハブ&スポークネットワーク | ハブ&スポークトポロジーの構築 | [terraform/hub-spoke-network/](./terraform/hub-spoke-network/) |
-| 高可用性Webアプリ | 複数リージョンのWebアプリ構成 | [terraform/ha-web-app/](./terraform/ha-web-app/) |
-| ハイブリッドネットワーク | VPN GatewayとExpressRouteの構成 | [terraform/hybrid-network/](./terraform/hybrid-network/) |
-| DRソリューション | Azure Site Recoveryによる DR 構成 | [terraform/disaster-recovery/](./terraform/disaster-recovery/) |
+| シナリオ | 説明 | ディレクトリ | ステータス |
+|---------|------|--------------|-----------|
+| ハブ&スポークネットワーク | ハブ&スポークトポロジーの構築 | [terraform/hub-spoke-network/](./terraform/hub-spoke-network/) | 🚧 予定 |
+| 高可用性Webアプリ | 複数リージョンのWebアプリ構成 | [terraform/ha-web-app/](./terraform/ha-web-app/) | 🚧 予定 |
+| ハイブリッドネットワーク | VPN GatewayとExpressRouteの構成 | [terraform/hybrid-network/](./terraform/hybrid-network/) | 🚧 予定 |
+| DRソリューション | Azure Site Recoveryによる DR 構成 | [terraform/disaster-recovery/](./terraform/disaster-recovery/) | 🚧 予定 |
 
 ### 手動デモ
 
-| シナリオ | 説明 | ファイル |
-|---------|------|----------|
-| アーキテクチャ設計演習 | 要件からアーキテクチャを設計 | [manual-demos/01-architecture-design.md](./manual-demos/01-architecture-design.md) |
-| ネットワーク設計 | VNetとサブネットの設計パターン | [manual-demos/02-network-design.md](./manual-demos/02-network-design.md) |
-| 高可用性設計 | 可用性セットとゾーンの使い分け | [manual-demos/03-high-availability.md](./manual-demos/03-high-availability.md) |
-| セキュリティ設計 | ゼロトラストモデルの実装 | [manual-demos/04-security-design.md](./manual-demos/04-security-design.md) |
-| コスト最適化 | アーキテクチャのコスト分析 | [manual-demos/05-cost-optimization.md](./manual-demos/05-cost-optimization.md) |
-| 移行計画 | オンプレミスからAzureへの移行戦略 | [manual-demos/06-migration-planning.md](./manual-demos/06-migration-planning.md) |
+| シナリオ | 説明 | ファイル | ステータス |
+|---------|------|----------|-----------|
+| アーキテクチャ設計演習 | 要件からアーキテクチャを設計 | [manual-demos/01-architecture-design.md](./manual-demos/01-architecture-design.md) | 🚧 予定 |
+| ネットワーク設計 | VNetとサブネットの設計パターン | [manual-demos/02-network-design.md](./manual-demos/02-network-design.md) | 🚧 予定 |
+| 高可用性設計 | 可用性セットとゾーンの使い分け | [manual-demos/03-high-availability.md](./manual-demos/03-high-availability.md) | 🚧 予定 |
+| セキュリティ設計 | ゼロトラストモデルの実装 | [manual-demos/04-security-design.md](./manual-demos/04-security-design.md) | 🚧 予定 |
+| コスト最適化 | アーキテクチャのコスト分析 | [manual-demos/05-cost-optimization.md](./manual-demos/05-cost-optimization.md) | 🚧 予定 |
+| 移行計画 | オンプレミスからAzureへの移行戦略 | [manual-demos/06-migration-planning.md](./manual-demos/06-migration-planning.md) | 🚧 予定 |
 
 ## 推奨学習リソース
 
