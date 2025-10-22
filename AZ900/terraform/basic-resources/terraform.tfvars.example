@@ -1,0 +1,6 @@
+# このファイルをコピーして terraform.tfvars として使用してください
+# cp terraform.tfvars.example terraform.tfvars
+
+resource_group_name   = "rg-az900-demo"
+location              = "japaneast"
+storage_account_name  = "staz900demo12345"  # グローバルに一意な名前に変更してください
